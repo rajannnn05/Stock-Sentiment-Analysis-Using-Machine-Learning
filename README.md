@@ -13,6 +13,7 @@ Mitigate risks by detecting negative sentiment early, enabling timely portfolio 
 
 <u>**Methodology**:</u>
 
+
 1. Data Collection
 
 News headlines were scraped from seekingalpha.com and stored in news.csv with corresponding dates.
@@ -59,6 +60,8 @@ Trained the model and evaluated its predictive performance.
 
 Evaluated using metrics such as accuracy, precision, recall, F1 score, confusion matrix, and ROC curve analysis.
 
+
+
 <u>**Trading Strategy**:</u>
 
 Implemented a simple buy-and-hold strategy based on model predictions and risk management rules.
@@ -83,6 +86,8 @@ Maximum Drawdown: -6.21%
 Number of Trades Executed: 495
 
 Win Ratio: 49.47%
+
+
 
 <u>**Drawbacks**:</u>
 
