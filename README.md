@@ -1,9 +1,9 @@
 # Stock-Sentiment-Analysis-Using-Machine-Learning
-**Overview**:
+<u>**Overview**:</u>
 
 This project applies machine learning and natural language processing techniques to analyze the sentiment of financial news headlines and predict stock price movements. By assessing the sentiments expressed in news articles and correlating them with stock price data, the project aims to provide actionable insights for investors and financial analysts, supporting better trading decisions and risk management.
 
-**Significance**:
+<u>**Significance**:</u>
 
 Understanding market sentiment is vital for investors, traders, and analysts, as positive or negative sentiment can drive significant stock price changes. This project leverages sentiment analysis to:
 
@@ -11,7 +11,7 @@ Improve trading strategies by incorporating sentiment trends.
 
 Mitigate risks by detecting negative sentiment early, enabling timely portfolio adjustments.
 
-**Methodology**:
+<u>**Methodology**:</u>
 
 1. Data Collection
 
@@ -59,7 +59,7 @@ Trained the model and evaluated its predictive performance.
 
 Evaluated using metrics such as accuracy, precision, recall, F1 score, confusion matrix, and ROC curve analysis.
 
-**Trading Strategy**:
+<u>**Trading Strategy**:</u>
 
 Implemented a simple buy-and-hold strategy based on model predictions and risk management rules.
 
@@ -84,7 +84,7 @@ Number of Trades Executed: 495
 
 Win Ratio: 49.47%
 
-**Drawbacks**:
+<u>**Drawbacks**:</u>
 
 Sentiment analysis accuracy can be affected by ambiguous language, sarcasm, and context-dependent meanings.
 
